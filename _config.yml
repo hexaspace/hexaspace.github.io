@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "HEXA"
-  avatar           : "/assets/images/wa.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/face.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "개발중..."
   location         : "KOREA"
   email            :
